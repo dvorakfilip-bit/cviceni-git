@@ -4,7 +4,7 @@ pokus 123 121sdfg64df6
 Tenhle řádek jsem přidal abych měl diff
 
 tohle je úprava pro nový branch
-
+Tuhle úpravu dělám přímo v Githubu
 dnsfjkdnf
 dsfgdsgf
 25d13
